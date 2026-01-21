@@ -58,7 +58,7 @@ pexpect==4.0.1
 pickleshare==0.5
 ptyprocess==0.5
 pyOpenSSL==0.15.1
-pyasn1==0.1.9
+pyasn1==0.6.2
 pyasn1-modules==0.0.8
 pycparser==2.14
 pygal==2.0.12
